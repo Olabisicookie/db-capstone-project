@@ -1,0 +1,2 @@
+"CONCAT('Table ', p_TableNumber, ' is already booked on ', p_BookingDate)"
+"Table 5 is already booked on 2022-10-10"

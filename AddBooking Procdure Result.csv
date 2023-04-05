@@ -1,0 +1,2 @@
+"CONCAT('Booking added with ID ', p_BookingID)"
+"Booking added with ID 5"

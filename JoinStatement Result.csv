@@ -1,0 +1,10 @@
+CustomerID,FullName,OrderID,TotalCost,Cuisine,Category
+3,"Bob Johnson",3,1200.00,Turkish,Starters
+3,"Bob Johnson",3,1200.00,Italian,Starters
+1,"John Doe",1,1500.00,Turkish,Starters
+1,"John Doe",1,1500.00,Greek,Starters
+4,"Alice Brown",4,2000.00,Greek,Starters
+4,"Alice Brown",4,2000.00,Italian,Starters
+2,"Jane Smith",2,2500.00,Italian,"Main Courses"
+2,"Jane Smith",2,2500.00,Greek,"Main Courses"
+2,"Jane Smith",2,2500.00,Turkish,Desserts
